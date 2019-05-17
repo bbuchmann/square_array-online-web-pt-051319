@@ -1,3 +1,4 @@
-def square_array(array)
-  # your code here
+def Square_array
+  7.times do 
+    puts "Does this work"
 end
